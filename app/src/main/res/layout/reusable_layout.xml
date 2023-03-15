@@ -130,7 +130,7 @@
             <CheckBox
                 android:layout_width="@dimen/med_len"
                 android:layout_height="wrap_content"
-                android:text="Really fun!!!"/>
+                android:text="Really fun!!"/>
         </LinearLayout>
     </ScrollView>
 </merge>

@@ -16,10 +16,10 @@
         android:id="@+id/greeting"
         android:layout_width="wrap_content"
         android:layout_height="@dimen/small_len"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="@id/vertical_guideline"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.18"
+        app:layout_constraintBottom_toBottomOf="parent"
         android:background="@color/lime"
         android:text="@string/greeting5"
         android:gravity="center"/>

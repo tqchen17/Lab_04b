@@ -8,8 +8,8 @@
 
     <Button
         android:id="@+id/button1"
-        android:layout_width="@dimen/large_len"
         android:layout_height="@dimen/large_len"
+        android:layout_width="@dimen/large_len"
         android:backgroundTint="@color/purple_200"
         android:text="Centered"
         app:layout_constraintRight_toRightOf="parent"

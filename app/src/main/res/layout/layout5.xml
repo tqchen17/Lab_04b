@@ -11,8 +11,8 @@
         android:layout_width="@dimen/large_len"
         android:layout_height="@dimen/small_len"
         android:backgroundTint="@color/teal_700"
-        app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:text="@string/layout_label_5"/>
 

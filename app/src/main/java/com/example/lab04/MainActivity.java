@@ -10,7 +10,7 @@ import java.util.TimerTask;
 
 public class MainActivity extends AppCompatActivity {
 int[] ids;
-int count = -1;
+int count = 0;
 Thread thread;
 Timer timer = new Timer();
     @Override
